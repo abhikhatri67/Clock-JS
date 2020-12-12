@@ -1,6 +1,6 @@
 # Clock-JS
 
-Clock in JavaScript (Dark)
+Clock in JavaScript (Dark Mode)
 
 ## Preview
 
